@@ -3,6 +3,7 @@ package co.com.beans;
 public class animal {
 	private String nombre;
 	private String raza;
+	private String melo;
 	
 	public animal() {
 		
